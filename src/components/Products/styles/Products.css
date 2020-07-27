@@ -1,0 +1,23 @@
+.product-container {
+  margin: 4% 2%;
+}
+
+.product-visible {
+  display: block;
+  margin: 1%;
+}
+
+.product-invisible {
+  display: none;
+}
+
+.product-container .label {
+  width: 5vw;
+  text-align: center;
+  margin-right: 1.5% !important;
+}
+
+.button {
+  font-size: 1.15vw !important;
+  margin-right: 1.5% !important;
+}
